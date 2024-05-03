@@ -1,0 +1,7 @@
+Le librerie importate sono KERNEL32.dll e WININET.dll.
+KERNEL32.dll contiene le funzioni per interagire con il sistema operativo.
+WININET.dll contiene le funzioni per implementare i protocolli di rete.
+Le sezioni presenti sono .text, .rdata, .data.
+.text contiene le istruzioni da eseguire.
+.rdata include le informazioni delle librerie importate.
+.data contiene le variabili globali del programma.

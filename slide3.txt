@@ -1,0 +1,5 @@
+Con il primo push e il primo mov creiamo lo stack.
+Da push ecx a call viene chiamata la funzione.
+Con cmp e jz creiamo un ciclo if.
+Alla fine del programma viene pulito lo stack usando pop ebp.
+La funzione chiamata serve a vedere se la macchina è connessa a internet.
